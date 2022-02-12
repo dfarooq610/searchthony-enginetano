@@ -1,0 +1,2139 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "5nNcjpbW_d0sopeef6jwNxHC3H0",
+  "nextPageToken": "EAAaBlBUOkNHUQ",
+  "prevPageToken": "EAEaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K6gTFy8NksC3MX_KW57tEZLWRZ4",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LktXT2J6QWw4dVg0",
+      "snippet": {
+        "publishedAt": "2021-12-03T03:26:24Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Juçara Marçal - Delta Estácio Blues ALBUM REVIEW",
+        "description": "Listen: https://qtvlabel.bandcamp.com/album/qtv055-delta-est-cio-blues\n\nThe songs on Delta Estácio Blues are quality, varied, and unlike much of anything else this year.\n\nOther reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: VI DE RELANCE A COROA, SEM CAIS, LADRA, CRASH, BALEIA, LEMBRANCAS QUE GUARDEI\n\nLEAST FAV TRACK: CORPUS CHRISTI\n\nJUCARA MARCAL - DELTA ESTACIO BLUES / 2021 / QTV / BRAZILIAN AVANT-GARDE\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KWObzAl8uX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KWObzAl8uX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KWObzAl8uX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KWObzAl8uX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 50,
+        "resourceId": { "kind": "youtube#video", "videoId": "KWObzAl8uX4" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "KWObzAl8uX4",
+        "videoPublishedAt": "2021-12-03T03:47:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NcsRv8vSetiui8Dsfmhj1RLm94c",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LlBTekdJUXJXcTZZ",
+      "snippet": {
+        "publishedAt": "2021-12-02T02:29:59Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Deerhoof - Actually, You Can ALBUM REVIEW",
+        "description": "Listen: https://deerhoof.bandcamp.com/album/actually-you-can\n\nDeerhoof is in banger mode on Actually, You Can.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: BE UNBARRED O YE GATES OF HELL, DEPARTMENT OF CORRECTIONS, SCARCITY IS MANUFACTURED, ANCIENT MYSTERIES DESCRIBED, PLANT THIEF, EPIC LOVE POEM, DIVINE COMEDY\n\nLEAST FAV TRACK: WE GREW AND WE ARE ASTONISHED\n\nDEERHOOF - ACTUALLY, YOU CAN / 2021 / JOYFUL NOISE / NOISE POP, INDIE ROCK\n\n8/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PSzGIQrWq6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PSzGIQrWq6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PSzGIQrWq6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PSzGIQrWq6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 51,
+        "resourceId": { "kind": "youtube#video", "videoId": "PSzGIQrWq6Y" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "PSzGIQrWq6Y",
+        "videoPublishedAt": "2021-12-02T02:47:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l3xgwEV8bekhIhGWDUkxmr4zrC8",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LkJiN1FoQ2ZCTlE4",
+      "snippet": {
+        "publishedAt": "2021-12-01T05:59:38Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Richard Dawson & Circle - Henki ALBUM REVIEW",
+        "description": "Listen: https://richardmichaeldawson.bandcamp.com/album/henki\n\nAn unexpected dream team.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: COOKSONIA, IVY, SILPHIUM, METHUSELAH, LILY, PITCHER\n\nLEAST FAV TRACK: SILENE\n\nRICHARD DAWSON & CIRCLE - HENKI / 2021 / DOMINO / PROG ROCK, HEAVY PSYCH\n\n9/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bb7QhCfBNQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bb7QhCfBNQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bb7QhCfBNQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bb7QhCfBNQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 52,
+        "resourceId": { "kind": "youtube#video", "videoId": "Bb7QhCfBNQ8" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "Bb7QhCfBNQ8",
+        "videoPublishedAt": "2021-12-01T06:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y9BOYR1zQay0irLusT__syIXqUo",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LnQxaXpVZ1R5TXM4",
+      "snippet": {
+        "publishedAt": "2021-11-30T04:29:45Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Converge & Chelsea Wolfe - Bloodmoon: I ALBUM REVIEW",
+        "description": "Listen: https://convergecult.bandcamp.com/album/bloodmoon-i\n\nBloodmoon I is a pretty solid collab, and hopefully the title hints that the best is yet to come.\n\nMore metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: BLOOD MOON, VISCERA OF MEN, COIL, TONGUES PLAYING DEAD, LORD OF LIARS, BLOOD DAWN\n\nLEAST FAV TRACK: SCORPION'S STING\n\nCONVERGE & CHELSEA WOLFE - BLOODMOON: I / 2021 / EPITAPH / GOTHIC & ATMOSPHERIC SLUDGE METAL\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t1izUgTyMs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t1izUgTyMs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t1izUgTyMs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t1izUgTyMs8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 53,
+        "resourceId": { "kind": "youtube#video", "videoId": "t1izUgTyMs8" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "t1izUgTyMs8",
+        "videoPublishedAt": "2021-11-30T05:00:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fxC9r-LcptkI-Cdr53KI7UUn8Bc",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LkNiM3ZmVzJNUk1Z",
+      "snippet": {
+        "publishedAt": "2021-11-29T03:42:45Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Earl Sweatshirt, 100 gecs, Freddie Gibbs, FKA twigs | Weekly Track Roundup: 11/28/21",
+        "description": "Sponsored by G Fuel: gfuel.ly/needledrop\nPromo Code: NeedleDrop\n\n2021 FAV TRACKS PLAYLIST: https://open.spotify.com/playlist/7hXc9PnNqJtnV4hMmsqgIR?si=BDDSbBnoQzS1KPhndqwfkg\n\nTND Patreon: https://www.patreon.com/theneedledrop\n\nTurntable Lab link: http://turntablelab.com/theneedledrop\n\n\n!!!BEST TRACKS THIS WEEK!!!\n\nEarl Sweatshirt - 2010\nhttps://www.youtube.com/watch?v=JUKh7Cj_3Fo\nReview: https://www.youtube.com/watch?v=FFo8ttThflY\n\nIbeyi - Made of Gold ft. Pa Salieu\nhttps://open.spotify.com/track/3244GS11H5U1s6T7unXKG3?si=2618475aa28543fe\n\nRico Nasty - Money ft. Flo Milli\nhttps://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP?si=8e2b8f5ce4ca40bd\n\nJockstrap - 50/50\nhttps://open.spotify.com/track/3I4G8p5a0n1I7owUfaUUpH?si=15b66e75ccef4f7d\n\nFreddie Gibbs - Black Illuminati ft. Jadakiss\nhttps://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI?si=6805871b27a343e0\n\nFKA twigs - Measure of a Man ft. Central Cee\nhttps://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r?si=499a8ccfbeac4f0e\n\nMoore Kismet - Call of the Unicorn ft. Tasha Baxter\nhttps://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ?si=1c8035c831624569\n\nBig Thief - Time Escaping\nhttps://youtu.be/CkIvGej2WyI\n\nSweeping Promises - Pain Without a Touch\nhttps://youtu.be/hUl23t6Oago\n\nSilverbacks - Rolodex City\nhttps://youtu.be/-i_9ScUtAO8\n\n\n...meh...\n\n\nWarren Ellis & Nick Cave - We Are Not Alone\nhttps://www.youtube.com/watch?v=kGVhwgHIy74\n\nBloc Party - Traps\nhttps://www.youtube.com/watch?v=__6OB8_QZC8\n\nAlice Glass - Baby Teeth\nhttps://open.spotify.com/album/4fzsCSuXqETmOFCdshabJ2?si=3c36a84a92a545ef\n\nR.A.P. Ferreira - east nashville\nhttps://afrolab9000.bandcamp.com/track/east-nashville-prod-vast-ness-2\n\nMorray - Never Fail ft. Benny the Butcher\nhttps://open.spotify.com/track/0myEYpzyBetSo4tgKs7oUx?si=3184cbb6ff1141a4\n\nKavinsky - Renegade ft. Cautious Clay\nhttps://www.youtube.com/watch?v=N5u6YYqWgEo\n\n100 gecs - mememe\nhttps://www.youtube.com/watch?v=1Bw2dTY3SsQ\nReview: https://www.youtube.com/watch?v=7QYe3djKy2c\n\nwillow - t r a n s p a r e n t s o u l ft. Kid Cudi & Travis Barker (Remix)\nhttps://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U?si=bb836108f6ec4883\n\nAlex Cameron - Sara Jo\nhttps://open.spotify.com/track/3wkt3OCEqeb3SiIvJb0Iiv?si=412b01b601c04d2b\n\n\n!!!WORST TRACKS THIS WEEK!!!\nnada!\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cb3vfW2MRMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cb3vfW2MRMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cb3vfW2MRMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cb3vfW2MRMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 54,
+        "resourceId": { "kind": "youtube#video", "videoId": "Cb3vfW2MRMY" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "Cb3vfW2MRMY",
+        "videoPublishedAt": "2021-11-29T04:10:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZrYyXCkObJsDtTZFoI4iXQ69CFQ",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Lkp6UUFnNlJmS0Nv",
+      "snippet": {
+        "publishedAt": "2021-11-28T05:07:22Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "2022 Grammy Awards Picks & Predictions!",
+        "description": "Full list of nominations: https://www.grammy.com/grammys/news/2022-grammys-complete-winners-nominees-nominations-list\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JzQAg6RfKCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JzQAg6RfKCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzQAg6RfKCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JzQAg6RfKCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 55,
+        "resourceId": { "kind": "youtube#video", "videoId": "JzQAg6RfKCo" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "JzQAg6RfKCo",
+        "videoPublishedAt": "2021-11-28T05:30:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f7aHX4U8rMpBk-DjSwFGe6wXk8g",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjVYTV82aTVfd2I0",
+      "snippet": {
+        "publishedAt": "2021-11-25T23:48:08Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "dltzk - Frailty ALBUM REVIEW",
+        "description": "Listen: https://dltzk.bandcamp.com/album/frailty-2\n\ndltzk presents some amazing ideas on Frailty, and hopefully clearer recordings in the future will allow them to shine even more.\n\nOther reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: YOUR CLOTHES, MISPLACE, MOVIES FOR GUYS, KODAK MOMENT, HOW TO LIE, EYES OFF THE WHEEL I'M A STAR\n\nLEAST FAV TRACK: BUZZCUT DAISY\n\nDLTZK - FRAILTY / 2021 / DEADAIR / EXPERIMENTAL POP, INDIETRONIC\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5XM_6i5_wb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5XM_6i5_wb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5XM_6i5_wb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5XM_6i5_wb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 56,
+        "resourceId": { "kind": "youtube#video", "videoId": "5XM_6i5_wb4" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "5XM_6i5_wb4",
+        "videoPublishedAt": "2021-11-25T23:58:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zcq_8BvTSFqt0ETijjm0ZJSSF7I",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Ll9VOXlWT1Q4VkM4",
+      "snippet": {
+        "publishedAt": "2021-11-25T03:20:54Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Adele - 30 ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=U3ASj1L6_sY\n\nApart from a few ill-conceived stylistic switch-ups, 30 is a classy and moving pop record.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: STRANGERS BY NATURE, EASY ON ME, OH MY GOD, I DRINK WINE, HOLD ON, TO BE LOVED, LOVE IS A GAME\n\nLEAST FAV TRACK: CRY YOUR HEART OUT\n\nADELE - 30 / 2021 / MELTED STONE / POP SOUL\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_U9yVOT8VC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_U9yVOT8VC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_U9yVOT8VC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_U9yVOT8VC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 57,
+        "resourceId": { "kind": "youtube#video", "videoId": "_U9yVOT8VC8" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "_U9yVOT8VC8",
+        "videoPublishedAt": "2021-11-25T03:38:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CIaXOOEpZYVW2MgBbrgbmVJBSVs",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjdrUU1NRS1lNEo0",
+      "snippet": {
+        "publishedAt": "2021-11-24T02:14:50Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "YUNOREVIEW: November 2021 (Zack Fox, Imagine Dragons, Damon Albarn, Andrew W.K.)",
+        "description": "The magical monthly segment where I briefly touch down on a gauntlet of albums I didn't get a chance to review this past month...or longer. These are just my short, straightforward, passionate, biased opinions.\n\nZACK FOX - SHUT THE FUCK UP TALKING TO ME\nCORBIN - GHOST WITH SKIN\nEVERY TIME I DIE - RADICAL\nIMAGINE DRAGONS - MERCURY ACT 1\nCITY MORGUE - VOL. 3: BOTTOM OF THE BARREL\nMAXO KREAM - WEIGHT OF THE WORLD\nTWIABP - ILLUSORY WALLS\nKYARY PAMYU PAMYU - CANDY RACER\nGROUPER - SHADE\nBIG SEAN & HIT-BOY - WHAT YOU EXPECT\nXENIA RUBINOS - UNA ROSA\nBBNO$ - EAT YA VEGGIES\nMICK JENKINS - ELEPHANT IN THE ROOM\nANDREW W.K. - GOD IS PARTYING\nDAMON ALBARN - THE NEARER THE FOUNTAIN... \n\nIntro fan art from: https://www.reddit.com/r/fantanoforever/comments/qxq54q/eldritchony_helltano_here_the_underworlds_busiest/\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7kQMME-e4J4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7kQMME-e4J4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kQMME-e4J4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 58,
+        "resourceId": { "kind": "youtube#video", "videoId": "7kQMME-e4J4" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "7kQMME-e4J4",
+        "videoPublishedAt": "2021-11-24T02:38:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Dfz8lfkkyQjdgE7as2QpGWrSzmI",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Lng2QmktU2JIUXNZ",
+      "snippet": {
+        "publishedAt": "2021-11-22T17:50:55Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "ABBA - Voyage ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=YDJZlPTFol8\n\nWhile the group's return after four decades is admirable, there's sadly something missing on Voyage.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: DON'T SHUT ME DOWN, JUST A NOTION, NO DOUBT ABOUT IT\n\nLEAST FAV TRACK: ODE TO FREEDOM\n\nABBA - VOYAGE / 2021 / UMG / EUROPOP\n\n5/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x6Bi-SbHQsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x6Bi-SbHQsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x6Bi-SbHQsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x6Bi-SbHQsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 59,
+        "resourceId": { "kind": "youtube#video", "videoId": "x6Bi-SbHQsY" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "x6Bi-SbHQsY",
+        "videoPublishedAt": "2021-11-22T18:16:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_bHLVp01v2QikVI_5592jm_XaS8",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Lmdfa05SV3hLTHc4",
+      "snippet": {
+        "publishedAt": "2021-11-19T21:49:26Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Reading Your Comments: Taylor Swift, Silk Sonic, Limp Bizkit, IDLES, Sloppy Jane",
+        "description": "Reacting to comments from these reviews:\n\nTaylor Swift - Red (Taylor's Version)\nhttps://youtu.be/bGbewSHZWQA\n\nAn Evening with Silk Sonic\nhttps://youtu.be/crZNckV5Q74\n\nSloppy Jane - Madison\nhttps://youtu.be/pQczJl2jbf8\n\nIDLES - Crawler\nhttps://youtu.be/N1Aioax6rYE\n\nLimp Bizkit - Still Sucks\nhttps://youtu.be/PW-SzhsksvE\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_kNRWxKLw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_kNRWxKLw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_kNRWxKLw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g_kNRWxKLw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 60,
+        "resourceId": { "kind": "youtube#video", "videoId": "g_kNRWxKLw8" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "g_kNRWxKLw8",
+        "videoPublishedAt": "2021-11-19T22:02:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pnpkKNO3dAn6KWmw1XfpYjsDjEU",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmRjLXplZDZmZnJR",
+      "snippet": {
+        "publishedAt": "2021-11-19T03:05:10Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Aesop Rock x Blockhead - Garbology ALBUM REVIEW",
+        "description": "Listen: https://aesoprock.bandcamp.com/album/garbology\n\nGarbology should be a treat for fans of this pair's seminal work together.\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: JAZZ HANDS, LEGERDEMAIN, DIFFICULT, OH FUDGE, MORE CYCLES, THAT IS NOT A WIZARD, THE SEA, ABANDONED MALLS\n\nLEAST FAV TRACK: ALL THE SMARTEST PEOPLE\n\nAESOP ROCK & BLOCKHEAD- GARBOLOGY / 2021 / RHYMESAYERS ENTERTAINMENT / ABSTRACT HIP HOP\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dc-zed6ffrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dc-zed6ffrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dc-zed6ffrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dc-zed6ffrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 61,
+        "resourceId": { "kind": "youtube#video", "videoId": "dc-zed6ffrQ" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "dc-zed6ffrQ",
+        "videoPublishedAt": "2021-11-19T03:21:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2DVVldAEkk9SOXJ2iMqKTstZf08",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmJHYmV3U0haV1FB",
+      "snippet": {
+        "publishedAt": "2021-11-18T04:37:25Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Taylor Swift - Red (Taylor's Version) ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=sRxrwjOtIag\n\nTaylor's version of her pop crossover opus Red is pretty impressive in its attention to detail, and delivers a winning crop of previously unreleased songs.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV VAULT TRACKS: RONAN, BETTER MAN, NOTHING NEW, BABE, I BET YOU THINK ABOUT ME, ALL TOO WELL (10 MIN)\n\nLEAST FAV VAULT TRACK: MESSAGE IN A BOTTLE\n\nTAYLOR SWIFT - RED (TAYLOR'S VERSION) / 2021 / REPUBLIC / POP ROCK, COUNTRY POP\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bGbewSHZWQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bGbewSHZWQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bGbewSHZWQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bGbewSHZWQA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 62,
+        "resourceId": { "kind": "youtube#video", "videoId": "bGbewSHZWQA" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "bGbewSHZWQA",
+        "videoPublishedAt": "2021-11-18T04:58:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aWkmUWwDpz589u_gA6-XTA3mzDY",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Lk4xQWlvYXg2cllF",
+      "snippet": {
+        "publishedAt": "2021-11-17T04:47:03Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "IDLES - Crawler ALBUM REVIEW",
+        "description": "Listen: https://idlesband.bandcamp.com/album/crawler\n\nCrawler lacks the impact of the band's past few LPs.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: THE NEW SENSATION, THE BEACHLAND BALLROOM, THE END\n\nLEAST FAV TRACK: WHEN THE LIGHTS COME ON\n\nIDLES - CRAWLER / 2021 / PARTISAN / POST-PUNK\n\n6/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N1Aioax6rYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N1Aioax6rYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N1Aioax6rYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N1Aioax6rYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 63,
+        "resourceId": { "kind": "youtube#video", "videoId": "N1Aioax6rYE" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "N1Aioax6rYE",
+        "videoPublishedAt": "2021-11-17T05:06:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8SQ8qCXg61uY2ndGYO5s0XrFFkk",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmNyWk5ja1Y1UTc0",
+      "snippet": {
+        "publishedAt": "2021-11-16T02:37:58Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "An Evening with Silk Sonic ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=GG7fLOmlhYg\n\nA fun little blast of classic soul revivalism.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: LEAVE THE DOOR OPEN, FLY AS ME, SMOKIN OUT THE WINDOW, PUT ON A SMILE, SKATE\n\nLEAST FAV TRACK: BLAST OFF\n\nSILK SONIC - AN EVENING WITH... / 2021 / AFTERMATH ENTERTAINMENT / SOUL, FUNK\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/crZNckV5Q74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/crZNckV5Q74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/crZNckV5Q74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/crZNckV5Q74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 64,
+        "resourceId": { "kind": "youtube#video", "videoId": "crZNckV5Q74" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "crZNckV5Q74",
+        "videoPublishedAt": "2021-11-16T02:49:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a7pf3NyzGn21fdASKdtLqJqjtOk",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LldnRWhJdUtuWk13",
+      "snippet": {
+        "publishedAt": "2021-11-15T06:10:10Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Summer Walker - Still Over It ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=IhSPyR72CqM\n\nWhile Still Over It is kind of bloated, it shows quite a bit of growth from Summer Walker since her debut.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: BITTER, NO LOVE, THROW IT AWAY, INSANE, UNLOYAL, DAT RIGHT THERE, SCREWIN, 4TH BABY MAMA, CIARA'S PRAYER\n\nLEAST FAV TRACK: SWITCH A N***A OUT\n\nSUMMER WALKER - STILL OVER IT / 2021 / LVRN / R&B\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WgEhIuKnZMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WgEhIuKnZMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WgEhIuKnZMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WgEhIuKnZMw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 65,
+        "resourceId": { "kind": "youtube#video", "videoId": "WgEhIuKnZMw" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "WgEhIuKnZMw",
+        "videoPublishedAt": "2021-11-15T06:27:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MzkM9PptK8rhFTQsR7WYdO4LWa4",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LkZDemJqbm5ndjhB",
+      "snippet": {
+        "publishedAt": "2021-11-15T04:39:35Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Rosalía, Mitski, Grimes, Code Orange  | Weekly Track Roundup: 11/14/21",
+        "description": "Our sponsor: http://ridgewallet.com/fantano\nUSE PROMO CODE \"MELON\" FOR 10% OFF\n\n2021 FAV TRACKS PLAYLIST: https://open.spotify.com/playlist/7hXc9PnNqJtnV4hMmsqgIR?si=BDDSbBnoQzS1KPhndqwfkg\n\nTND Patreon: https://www.patreon.com/theneedledrop\n\nTurntable Lab link: http://turntablelab.com/theneedledrop\n\n\n!!!BEST TRACKS THIS WEEK!!!\n\nLucy Dacus - Thumbs Again\nhttps://www.youtube.com/watch?v=IUXFB3_uUKk\n\nBonobo - Otomo\nhttps://www.youtube.com/watch?v=2MdetBY_l54\n\nPup - Waiting\nhttps://open.spotify.com/track/3Ly7n8aLtOJStBFfcx5KOk?si=f3310437158b40b6\n\nSmino, NOS. - I Deserve\nhttps://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl?si=1a19f30c82274a2a\n\nRosalía, The Weeknd - LA FAMA\nhttps://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK?si=d7b930f8b9704916\n\nTaylor Swift - Nothing New ft. Phoebe Bridgers\nhttps://open.spotify.com/track/01K4zKU104LyJ8gMb7227B?si=b44c8995cbea4bcb\n\nArca - Electra Rex\nhttps://www.youtube.com/watch?v=6FwaUXFyomc\n\nBeach House - Once Twice Melody, Superstar, Pink Funeral, Through Me\nhttps://www.youtube.com/watch?v=EZ-rR9H5wVI\n\nJenny Hval - Jupiter\nhttps://open.spotify.com/track/2q5a4YuPPAADiChfRBU7tt?si=268372677c6f4b1f\n\nMichael Christmas - Paul Wall\nhttps://youtu.be/Sg9fWhza63c\n\nNilüfer Yanya - stabilise\nhttps://youtu.be/mWdIFrDUWOs\n\n\n...meh...\n\nAvril Lavigne - Bite Me\nhttps://www.youtube.com/watch?v=ciqUEV9F0OY\n\nLil Durk - Lion Eyes\nhttps://www.youtube.com/watch?v=CEf5ekuwLn8\n\nDaBaby - ROOF\n\nPolo G - Bad Man (Smooth Criminal)\nhttps://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5?si=bbb9b601a6664cd1\n\nAmber Mark - Softly\nhttps://www.youtube.com/watch?v=1stAYxwLFHA\n\nBeyoncé - Be Alive\nhttps://www.youtube.com/watch?v=4wYdZi3tFJ4\n\nMitski - The Only Heartbreaker\nhttps://www.youtube.com/watch?v=LmXFF_whkVk\n\nRick Ross - Outlawz ft. Jazmine Sullivan, 21 Savage\nhttps://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY?si=43b13b65239142a0\n\nMerlyn Wood & CONNIE - S.Y.K.\nhttps://www.youtube.com/watch?v=xMbD1q5I2uY\n\nCode Orange - Out for Blood\nhttps://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY?si=9a93e4a06d834acd\n\n\n!!!WORST TRACKS THIS WEEK!!!\n\nKorn - Start the Healing\nhttps://www.youtube.com/watch?v=Aupnj1KpjCg\n\nChris Lake & Grimes (NPC) - A Drug From God\nhttps://www.youtube.com/watch?v=nsmvBR37xps\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FCzbjnngv8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FCzbjnngv8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FCzbjnngv8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FCzbjnngv8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 66,
+        "resourceId": { "kind": "youtube#video", "videoId": "FCzbjnngv8A" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "FCzbjnngv8A",
+        "videoPublishedAt": "2021-11-15T05:12:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nRMNYqoUS4b3wMrpBV8S-zJo1U0",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LnBRY3pKbDJqYmY4",
+      "snippet": {
+        "publishedAt": "2021-11-13T05:28:36Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Sloppy Jane - Madison ALBUM REVIEW",
+        "description": "Listen: https://sloppyjanemusic.bandcamp.com/album/madison\n\nMadison is one of the year's most beautiful and enigmatic records.\n\nOther reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: OVERTURE, PARTY ANTHEM, JESUS AND YOUR LIVING ROOM FLOOR, LULLABY FORMICA, MADISON, THE CONSTABLE, EPILOGUE\n\nLEAST FAV TRACK: WILT\n\nSLOPPY JANE - MADISON / 2021 / SADDEST FACTORY / ART POP, CHAMBER MUSIC...IN A CAVE\n\n8/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pQczJl2jbf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pQczJl2jbf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pQczJl2jbf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pQczJl2jbf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 67,
+        "resourceId": { "kind": "youtube#video", "videoId": "pQczJl2jbf8" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "pQczJl2jbf8",
+        "videoPublishedAt": "2021-11-13T05:42:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "elAzZV7KKPFGOo_xqE0BLgKTRtk",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmFEdG5uLVhHUXhV",
+      "snippet": {
+        "publishedAt": "2021-11-12T05:33:07Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Aminé - TwoPointFive MIXTAPE REVIEW",
+        "description": "Listen: https://soundcloud.com/heyamine/sets/twopointfive-1\n\nEnough of the ideas TWOPOINTFIVE throws at the wall stick.\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: COLORS, OKWME, CHARMANDER, MAD FUNNY FREESTYLE, SH!T2LUZ\n\nLEAST FAV TRACK: YIPIYAY\n\nAMINE - TWOPOINTFIVE / 2021 / CLBN / ALTERNATIVE HIP HOP, TRAP RAP\n\n6/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDtnn-XGQxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDtnn-XGQxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDtnn-XGQxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 68,
+        "resourceId": { "kind": "youtube#video", "videoId": "aDtnn-XGQxU" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "aDtnn-XGQxU",
+        "videoPublishedAt": "2021-11-12T05:48:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "42-7re4BLbzDFWOmxaUvvgcEtOA",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmhFdENYdU5QeGhR",
+      "snippet": {
+        "publishedAt": "2021-11-10T03:07:51Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Dijon - Absolutely ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=F8NeBYucGcw\n\nDijon's debut is a bit on the scant side, but still packs a lot of great ideas and performances.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: BIG MIKE'S, MANY TIMES, NOAH'S HIGHLIGHT REEL, THE DRESS, RODEO CLOWN\n\nLEAST FAV TRACK: CREDITS\n\nDIJON - ABSOLUTELY / 2021 / DARK GREEN, DARK GREEN / ALTERNATIVE R&B\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hEtCXuNPxhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hEtCXuNPxhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hEtCXuNPxhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hEtCXuNPxhQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 69,
+        "resourceId": { "kind": "youtube#video", "videoId": "hEtCXuNPxhQ" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "hEtCXuNPxhQ",
+        "videoPublishedAt": "2021-11-10T03:28:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-2h5BiGZ7pxslNxUTNRamPZZc9M",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LlBXLVN6aHNrc3ZF",
+      "snippet": {
+        "publishedAt": "2021-11-08T19:27:46Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Limp Bizkit - Still Sucks ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=wPHWloW1-08\n\nAh shit, here we go again.\n\nMore metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: ALL OF THEM\n\nLEAST FAV TRACK: ALL OF THEM\n\nLIMP BIZKIT - STILL SUCKS / 2021 / SURETONE / NU METAL, RAP ROCK\n\n🌯/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PW-SzhsksvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PW-SzhsksvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PW-SzhsksvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 70,
+        "resourceId": { "kind": "youtube#video", "videoId": "PW-SzhsksvE" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "PW-SzhsksvE",
+        "videoPublishedAt": "2021-11-09T01:48:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sfmGW2XfKGXjLKa1be6uCV4ND30",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Lktsc3FGU0dRaTBV",
+      "snippet": {
+        "publishedAt": "2021-11-08T04:49:08Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Silk Sonic, Post Malone, Charli XCX, Green Day | Weekly Track Roundup: 11/7/21",
+        "description": "Sponsored by G Fuel: gfuel.ly/needledrop\nPromo Code: NeedleDrop\n\n2021 FAV TRACKS PLAYLIST: https://open.spotify.com/playlist/7hXc9PnNqJtnV4hMmsqgIR?si=BDDSbBnoQzS1KPhndqwfkg\n\nTND Patreon: https://www.patreon.com/theneedledrop\n\nTurntable Lab link: http://turntablelab.com/theneedledrop\n\n\n!!!BEST TRACKS THIS WEEK!!!\n\nChristian Lee Hutson - Strawberry Lemonade\nhttps://www.youtube.com/watch?v=jnEyY-3Q47E\n\nIndigo De Souza - Ivy (Frank Ocean Cover)\nhttps://www.youtube.com/watch?v=g9NuX3NJ52o\n\nBlack Country, New Road - Bread Song\nhttps://open.spotify.com/track/0BNI6GU1k6AnnAj3yPxEmy?si=53375cb964104df0\n\nSilk Sonic - Smokin Out the Window\nhttps://www.youtube.com/watch?v=GG7fLOmlhYg\nReview: https://www.youtube.com/watch?v=s2eW7VnmTTo&t=25s\n\nCharli XCX - New Shapes ft. Christine and the Queens & Caroline Polachek\nhttps://open.spotify.com/track/2JvWoj5bTklsb6fPzRfZ3x?si=3a2efa4d931d4190\n\nArca - Prada / Rakata\nhttps://www.youtube.com/watch?v=NL-tvd8jeBc\n\nLorde - Hold No Grudge\nhttps://open.spotify.com/track/188rKyWMsC4WsKKZ85lnUO?si=5380e73ff53e4c61\n\nConverge, Chelsea Wolfe - Coil\nhttps://open.spotify.com/track/4qrc4FPpvMU8x5hT6u5HuT?si=2cecd4dfcb2c4f8d\n\nThank - Good Boy\nhttps://explodinginsoundrecords.bandcamp.com/album/thoughtless-cruelty\n\nSquid - America! (Bill Callahan Cover)\nhttps://www.youtube.com/watch?v=Ove9RUVwbWk\n\n\n...meh...\n\nFranz Ferdinand - Billy Goodbye\nhttps://www.youtube.com/watch?v=cczYQXfOqxk\n\nRich Brian - New Tooth\nhttps://www.youtube.com/watch?v=d8KPzY9BY4Q\n\nPorcupine Tree - Harridan\nhttps://www.youtube.com/watch?v=AW5v4Ohxk5k\n\nSlipknot - The Chapeltown Rag\nhttps://www.youtube.com/watch?v=j2v4u7VhoPU\n\nIDLES - Car Crash\nhttps://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k?si=252cfe7b295347a8\n\nalt-J - Get Better\nhttps://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc?si=026b006c9b594541\n\nTravis Scott - Escape Plan / Mafia\nhttps://www.youtube.com/watch?v=KPz33BLkvho\nReview: https://www.youtube.com/watch?v=FKZzVtCQIuw\n\n\n!!!WORST TRACKS THIS WEEK!!!\n\nTNGHT - Tums\nhttps://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7?si=ac1187f9abcf443e\n\nPost Malone, The Weeknd - One Right Now\nhttps://www.youtube.com/watch?v=OCogbzIvYg0\n\nTerrace Martin - Drones ft. Kendrick Lamar, Snoop Dogg, Ty Dolla $ign, James Fauntleroy\nhttps://www.youtube.com/watch?v=OxWCfqZhZX4\n\nGreen Day - Holy Toledo!\nhttps://www.youtube.com/watch?v=DfoFIx1vuuU\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KlsqFSGQi0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KlsqFSGQi0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KlsqFSGQi0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KlsqFSGQi0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 71,
+        "resourceId": { "kind": "youtube#video", "videoId": "KlsqFSGQi0U" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "KlsqFSGQi0U",
+        "videoPublishedAt": "2021-11-08T05:08:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RrHPuUmwfbmoD_9XFzAxAdVqBEo",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjNWT0FYcFNSOVYw",
+      "snippet": {
+        "publishedAt": "2021-11-06T04:53:24Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Marissa Nadler - The Path of the Clouds ALBUM REVIEW",
+        "description": "Listen: https://marissanadler.bandcamp.com/album/the-path-of-the-clouds\n\nThe Path of the Clouds is easily Marissa Nadler's most instrumentally dense solo project to date, which is mostly a blessing.\n\nOther reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: BESSIE DID YOU MAKE IT?, COULDN'T HAVE DONE THE KILLING, IF I COULD BREATHE UNDERWATER, ELEGY, STORM, LEMON QUEEN\n\nLEAST FAV TRACK: I DREAM OF RUNNING\n\nMARISSA NADLER - THE PATH OF THE CLOUDS / 2021 / SACRED BONES / DREAM POP, CHAMBER FOLK, SINGER-SONGWRITER\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3VOAXpSR9V0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3VOAXpSR9V0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3VOAXpSR9V0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3VOAXpSR9V0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 72,
+        "resourceId": { "kind": "youtube#video", "videoId": "3VOAXpSR9V0" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "3VOAXpSR9V0",
+        "videoPublishedAt": "2021-11-06T05:13:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mbjy5EsKmsBmZOLoweBWjJNqAyY",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LkVaYzRRQ0ptS2RR",
+      "snippet": {
+        "publishedAt": "2021-11-05T01:32:38Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "The War on Drugs - I Don't Live Here Anymore ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=B3OEofsCur8\n\nThe War on Drugs' heartland rock sound is more direct than ever on I Don't Live Here Anymore, with Granduciel's vocals and writing not always up to the task.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: CHANGE, OLD SKIN, WASTED\n\nLEAST FAV TRACK: VICTIM\n\nTHE WAR ON DRUGS - I DON'T LIVE HERE ANYMORE / 2021 / ATLANTIC / HEARTLAND ROCK, INDIE ROCK\n\n5/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EZc4QCJmKdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EZc4QCJmKdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EZc4QCJmKdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EZc4QCJmKdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 73,
+        "resourceId": { "kind": "youtube#video", "videoId": "EZc4QCJmKdQ" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "EZc4QCJmKdQ",
+        "videoPublishedAt": "2021-11-05T02:21:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mBIH02bvr9-znCJhX2hUvpSDo-M",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmVCZ2RTMXlId1Jr",
+      "snippet": {
+        "publishedAt": "2021-11-04T02:58:48Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Mastodon - Hushed and Grim ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=haT5ars6RXc\n\nWhile a lot more impressive than the preceding Emperor of Sand, Hushed and Grim does buckle under its own weight.\n\nMore metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: PAIN WITH AN ANCHOR, THE CRUX, MORE THAN I COULD CHEW, TEARDRINKER, PEACE AND TRANQUILITY, SAVAGE LANDS, GIGANTIUM\n\nLEAST FAV TRACK: THE BEAST\n\nMASTODON - HUSHED AND GRIM / 2021 / REPRISE / PROG METAL\n\n6/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eBgdS1yHwRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eBgdS1yHwRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eBgdS1yHwRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eBgdS1yHwRk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 74,
+        "resourceId": { "kind": "youtube#video", "videoId": "eBgdS1yHwRk" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "eBgdS1yHwRk",
+        "videoPublishedAt": "2021-11-04T03:24:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GI5K3c2VH7i3XdpVhSYXMQ201VM",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjlVTGJiUDh5dlkw",
+      "snippet": {
+        "publishedAt": "2021-11-03T01:45:31Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Reading Your Comments: Ed Sheeran, Lana Del Rey, Coldplay JPEGMAFIA",
+        "description": "Reacting to comments from these reviews:\n\nEd Sheeran - =\nhttps://www.youtube.com/watch?v=aae1g4R9KJA\n\nLana Del Rey - Blue Banisters\nhttps://www.youtube.com/watch?v=7NJBESktHRU\n\nColdplay - Music of the Spheres\nhttps://www.youtube.com/watch?v=meeXN2ljRoA\n\nJPEGMAFIA - LP!\nhttps://www.youtube.com/watch?v=bbsD3mRmQn4\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ULbbP8yvY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ULbbP8yvY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ULbbP8yvY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ULbbP8yvY0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 75,
+        "resourceId": { "kind": "youtube#video", "videoId": "9ULbbP8yvY0" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "9ULbbP8yvY0",
+        "videoPublishedAt": "2021-11-03T02:18:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y5QIG7qRtotv7B4Yd_3kxVj02ac",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmFhZTFnNFI5S0pB",
+      "snippet": {
+        "publishedAt": "2021-11-02T01:49:40Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Ed Sheeran - = ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=orJSJGHjBLI\n\nNot as bad as the collaborations album, albeit not by much.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: TIDES, THE JOKER AND THE QUEEN, VISITING HOURS\n\nLEAST FAV TRACK: LEAVE YOUR LIFE\n\nED SHEERAN - = / 2021 / ASYLUM / POP\n\n2/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aae1g4R9KJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aae1g4R9KJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aae1g4R9KJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aae1g4R9KJA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 76,
+        "resourceId": { "kind": "youtube#video", "videoId": "aae1g4R9KJA" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "aae1g4R9KJA",
+        "videoPublishedAt": "2021-11-02T02:11:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G--rrhN_P7NLGRsYQANvcGkrCOs",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjZnbUtwNTBTZU5z",
+      "snippet": {
+        "publishedAt": "2021-11-01T03:01:33Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "JAY-Z, Imagine Dragons, A$AP Rocky, Macklemore | Weekly Track Roundup: 10/31/21",
+        "description": "Sponsored by G Fuel: gfuel.ly/needledrop\nPromo Code: NeedleDrop\n\n2021 FAV TRACKS PLAYLIST: https://open.spotify.com/playlist/7hXc9PnNqJtnV4hMmsqgIR?si=BDDSbBnoQzS1KPhndqwfkg\n\nTND Patreon: https://www.patreon.com/theneedledrop\n\nTurntable Lab link: http://turntablelab.com/theneedledrop\n\n\n!!!BEST TRACKS THIS WEEK!!!\n\nShygirl - Cleo\nhttps://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy?si=537d85001b874e8d\n\nBaby Tate - Pedi\nhttps://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo?si=6689c8faafe4421b\n\nA$AP Rocky - Sandman\nhttps://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB?si=18ef688ab3e34e72\n\nBeach Bunny - Oxygen\nhttps://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3?si=e1fc760f55f347e1\n\nYG - Sign Language\nhttps://open.spotify.com/track/5CiYxsCieteb5iMjrHAkvV?si=c8dcc7b324894018\n\nTiaCorine - Luigi ft. Kenny Beats\nhttps://youtu.be/ZUA4r0tr0iA\n\nIbibio Sound Machine - Electricity\nhttps://youtu.be/IieqdBsPQJ0\n\n\n...meh...\n\nSpoon - The Hardest Cut\nhttps://youtu.be/i4vl4T1hEuQ\n\nAminé - Charmander\nhttps://open.spotify.com/album/5Cy8xrlkPh9lR5XolUM0QE?si=616910fb8315494a\n\nSnail Mail - Madonna\nhttps://open.spotify.com/track/6WrZ8rFuvTsWkFjC3US38h?si=7787e21421df4149\n\nFlo Milli - Ice Baby\nhttps://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK?si=e2dccb38b31f4c22\n\nImagine Dragons - Enemy ft. JID\nhttps://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ?si=e1de06e3ef4a48e2\n\nKylie Minogue & Jessie Ware - Kiss of Life\nhttps://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y?si=d57e0a8784054184\n\nSematary - Rituals\nhttps://open.spotify.com/track/3hkrKLIWzXhYTBI0VUvd0z?si=b2b9d392014c4818\n\n\n!!!WORST TRACKS THIS WEEK!!!\n\nBobby Shmurda - Cartier Lens\nhttps://www.youtube.com/watch?v=qGDAeGFJWEs\n\nLil Uzi Vert - Demon High\nhttps://www.youtube.com/watch?v=yF20KOqJg4E\n\nMacklemore - Next Year ft. Windser\nhttps://open.spotify.com/album/6Xi4YURDn7YBTTX3OuWoZb?si=c9c1381a91c04405\n\nFrench Montana - I Don't Really Care\nhttps://open.spotify.com/album/4QpszijvM9A6JfeitbD0Ba?si=45023804756543c1\n\nA$AP Ferg - Green Juice ft. Pharrell / The Neptunes\nhttps://www.youtube.com/watch?v=jEZ6wAuMMl0\n\nJay-Z & Kid Cudi - Guns Go Bang\nhttps://open.spotify.com/track/7nkaJQflQ0saF0w4sOSTco?si=1a736d24771d44c5\n\nMEDUZA, Hozier - Tell It to My Heart\nhttps://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G?si=bbfaa2fc79a245a0\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6gmKp50SeNs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6gmKp50SeNs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6gmKp50SeNs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 77,
+        "resourceId": { "kind": "youtube#video", "videoId": "6gmKp50SeNs" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "6gmKp50SeNs",
+        "videoPublishedAt": "2021-11-01T03:27:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0_DwsgUgGVyPfv6AwkYr2IyjLas",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmFhSjNEY2M2ZjNv",
+      "snippet": {
+        "publishedAt": "2021-10-29T18:15:58Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "14 Minutes of LOVING Kendrick Lamar",
+        "description": "Edit by Duplee:\nhttp://twitter.com/Dupleee\nhttps://www.youtube.com/channel/UCeJrRK_Pt1m23l5zgSytVUA\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aaJ3Dcc6f3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aaJ3Dcc6f3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aaJ3Dcc6f3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aaJ3Dcc6f3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 78,
+        "resourceId": { "kind": "youtube#video", "videoId": "aaJ3Dcc6f3o" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "aaJ3Dcc6f3o",
+        "videoPublishedAt": "2021-10-30T01:40:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M46P8tX8o9BalqnQFh4Srfr9Q18",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LmJic0QzbVJtUW40",
+      "snippet": {
+        "publishedAt": "2021-10-29T03:36:13Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "JPEGMAFIA - LP! ALBUM REVIEW",
+        "description": "Listen: https://jpegmafia.bandcamp.com/album/lp\n\nAnd still undefeated: JPEGMAFIA!\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: TRUST, DIRTY, NEMO, HAZARD DUTY PAY, WHAT KINDA RAPPIN IS THIS, THOTS PRAYER, ARE U HAPPY, REBOUND, OG, DIKEMBE, TIRED NERVOUS & BROKE, 🔥, BMT, THE GHOST OF RANKING DREAD, UNTITLED\n\nLEAST FAV TRACK: 💯\n\nJPEGMAFIA - LP! / 2021 / EQT / EXPERIMENTAL HIP HOP\n\n9/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bbsD3mRmQn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bbsD3mRmQn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bbsD3mRmQn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bbsD3mRmQn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 79,
+        "resourceId": { "kind": "youtube#video", "videoId": "bbsD3mRmQn4" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "bbsD3mRmQn4",
+        "videoPublishedAt": "2021-10-29T04:05:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FmPSGvZ4PYu3kQvIb9Gm-cC_-X4",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LkJqbTlCZGh1dlJZ",
+      "snippet": {
+        "publishedAt": "2021-10-28T04:08:50Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Parquet Courts - Sympathy for Life ALBUM REVIEW",
+        "description": "Listen: https://parquetcourts.bandcamp.com/album/sympathy-for-life\n\nIt's nice to hear Parquet Courts go in some different directions on Sympathy for Life, but the successes are more or less in the spots that most resemble the previous Wide Awake.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: WALKING AT A DOWNTOWN PACE, PLANT LIFE, HOMO SAPIEN\n\nLEAST FAV TRACK: JUST SHADOWS\n\nPARQUET COURTS - SYMPATHY FOR LIFE / 2021 / ROUGH TRADE / POST-PUNK, INDIE ROCK\n\n6/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bjm9BdhuvRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bjm9BdhuvRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bjm9BdhuvRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bjm9BdhuvRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 80,
+        "resourceId": { "kind": "youtube#video", "videoId": "Bjm9BdhuvRY" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "Bjm9BdhuvRY",
+        "videoPublishedAt": "2021-10-28T04:17:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NEW1BrHdUmBkn_23cNLS2roiazE",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjdOSkJFU2t0SFJV",
+      "snippet": {
+        "publishedAt": "2021-10-27T03:25:03Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Lana Del Rey - Blue Banisters ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=4mECX60FVJQ\n\nBlue Banisters sounds more slapped together than Lana's past two LPs.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: BLUE BANISTERS, ARCADIA, IF YOU LIE DOWN WITH ME, THUNDER\n\nLEAST FAV TRACK: DEALER\n\nLANA DEL REY - BLUE BANISTERS / 2021 / POLYDOR / SINGER-SONGWRITER, POP, SOFT ROCK\n\n5/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7NJBESktHRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7NJBESktHRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7NJBESktHRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7NJBESktHRU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 81,
+        "resourceId": { "kind": "youtube#video", "videoId": "7NJBESktHRU" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "7NJBESktHRU",
+        "videoPublishedAt": "2021-10-27T03:52:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dF7L6Q6C2Lmk_YEH6RSpKxohjMk",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Lm1lZVhOMmxqUm9B",
+      "snippet": {
+        "publishedAt": "2021-10-26T01:58:15Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Coldplay - Music of the Spheres ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=3lfnR7OhZY8\n\n2021: A Space Flawedyssey\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: ❤️\n\nLEAST FAV TRACK: PEOPLE OF THE PRIDE\n\nCOLDPLAY - MUSIC OF THE SPHERES / 2021 / PARLOPHONE / SYNTHPOP, POP ROCK\n\n2/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/meeXN2ljRoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/meeXN2ljRoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/meeXN2ljRoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/meeXN2ljRoA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 82,
+        "resourceId": { "kind": "youtube#video", "videoId": "meeXN2ljRoA" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "meeXN2ljRoA",
+        "videoPublishedAt": "2021-10-26T02:09:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6Uxfn7JIEpdpLxCHp4diRY4z4qA",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LkdJdTBzNkFQTkVv",
+      "snippet": {
+        "publishedAt": "2021-10-25T04:00:49Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Big Sean, Jack White, ABBA, Majid Jordan | Weekly Track Roundup: 10/24/21",
+        "description": "Our sponsor: http://ridgewallet.com/fantano\nUSE PROMO CODE \"MELON\" FOR 10% OFF\n\n2021 FAV TRACKS PLAYLIST: https://open.spotify.com/playlist/7hXc9PnNqJtnV4hMmsqgIR?si=BDDSbBnoQzS1KPhndqwfkg\n\nTND Patreon: https://www.patreon.com/theneedledrop\n\nTurntable Lab link: http://turntablelab.com/theneedledrop\n\n\n!!!BEST TRACKS THIS WEEK!!!\n\nParquet Courts - Homo Sapien\nhttps://youtu.be/-AcXjhA0zlI\n\nBonobo - Tides ft. Jamila Woods\nhttps://youtu.be/PctUKuCVCD8\n\nRichard Dawson & Circle - Methuselah\nhttps://youtu.be/nly2TwK4tio\n\nObongjayar - Message in a Hammer\nhttps://youtu.be/3bpg3M6lCrI\n\nDijon - Rodeo Clown\nhttps://youtu.be/MPt4UIkWitA\n\nBig Sean, Hit-Boy - What a Life\nhttps://www.youtube.com/watch?v=GbfWXdSrfus\n\n\n...meh...\n\nSwedish House Mafia & The Weeknd - Moth to a Flame\nhttps://youtu.be/u9n7Cw-4_HQ\n\nHEALTH X POPPY - Dead Flowers\nhttps://youtu.be/tlkdkQR2gUs\n\nABBA - Just a Notion\nhttps://youtu.be/vy4bLOYDmsQ\n\nEllevator - Charlie IO\nhttps://youtu.be/wu-N4-VBUKc\n\nBeirut - Fisher Island Sound\nhttps://youtu.be/EenQuqpVllA\n\nLana Del Rey - If You Lie Down with Me\nhttps://www.youtube.com/watch?v=xFv0wg_alGk\n\n\n!!!WORST TRACKS THIS WEEK!!!\n\nElton John - Always Love You ft. Young Thug and Nicki Minaj\nhttps://www.youtube.com/watch?v=Bi45aR8IuI8\n\nJack White - Taking Me Back\nhttps://youtu.be/dW9a2PKVgYY\n\nAnimal Collective - Prester John\nhttps://youtu.be/A5iJ9wt4paY\n\nMastodon - Sickle and Peace\nhttps://youtu.be/6F76JslnhBo\n\nMajid Jordan - Stars Align (with Drake)\nhttps://www.youtube.com/watch?v=5_GFgbWcq_o\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GIu0s6APNEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GIu0s6APNEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GIu0s6APNEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GIu0s6APNEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 83,
+        "resourceId": { "kind": "youtube#video", "videoId": "GIu0s6APNEo" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "GIu0s6APNEo",
+        "videoPublishedAt": "2021-10-25T04:22:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LHWRIeNmmiZVFqxJmn-pGSOB9js",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LnNYb1p4cEhiVUZ3",
+      "snippet": {
+        "publishedAt": "2021-10-23T03:23:47Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Tropical Frick Storm - Deep States ALBUM REVIEW",
+        "description": "Listen: https://tropicalfstorm.bandcamp.com/album/deep-states-2\n\nDeep States is TFS's weakest batch of songs yet, which is to say it's not that bad.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: G.A.F.F, BUMMA SANGER, NEW ROMEO AGENT, LEGAL GHOST, THE CONFINEMENT OF THE QUARKS\n\nLEAST FAV TRACK: SUBURBIOPIA\n\nTROPICAL FUCK STORM - DEEP STATES / 2021 / JOYFUL NOISE / ART PUNK, NOISE ROCK, PSYCH\n\n6/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXoZxpHbUFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXoZxpHbUFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXoZxpHbUFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sXoZxpHbUFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 84,
+        "resourceId": { "kind": "youtube#video", "videoId": "sXoZxpHbUFw" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "sXoZxpHbUFw",
+        "videoPublishedAt": "2021-10-23T03:38:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oPEaS3v05_jf_8B9IlRUFtHdqBs",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjZtR2NOT2JTYWg4",
+      "snippet": {
+        "publishedAt": "2021-10-22T02:35:28Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Lil Ugly Mane - Volcanic Bird Enemy and the Voiced Concern ALBUM REVIEW",
+        "description": "Listen: https://liluglymane.bandcamp.com/album/volcanic-bird-enemy-and-the-voiced-concern\n\nWhat's all this then?\n\nOther reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: WITH IRON & BLEACH & ACCIDENTS, BENADRYL SUBMARINE, HUMAN FLY, STYROFOAM, HEADBOARD, VPN, SWELL, CURSOR, BROKEN LADDER, PORCELAIN SLIGHTLY\n\nLEAST FAV TRACK: CLAPPING SEAL\n\nLIL UGLY MANE - VOLCANIC BIRD ENEMY AND THE VOICED CONCERN / 2021 / SELF-RELEASED / LOOK AT THE ALBUM COVER\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6mGcNObSah8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6mGcNObSah8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6mGcNObSah8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6mGcNObSah8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 85,
+        "resourceId": { "kind": "youtube#video", "videoId": "6mGcNObSah8" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "6mGcNObSah8",
+        "videoPublishedAt": "2021-10-22T02:51:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OysN7ga_W1BUCjkkZMt4tkq8bJ0",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LnhkOUNYM0ZWUnF3",
+      "snippet": {
+        "publishedAt": "2021-10-21T03:15:08Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Remi Wolf - Juno ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=V4FGW93j974\n\nAn impressive debut from the pop singer/songwriter.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: LIQUOR STORE, ANTHONY KIEDIS, WYD, GUERRILLA, QUIET ON SET, VOLKIANO, FRONT TOOTH, GRUMPY OLD MAN\n\nLEAST FAV TRACK: SALLY\n\nREMI WOLF - JUNO / 2021 / ISLAND / FUNKY SOUL POP\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xd9CX3FVRqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xd9CX3FVRqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xd9CX3FVRqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xd9CX3FVRqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 86,
+        "resourceId": { "kind": "youtube#video", "videoId": "xd9CX3FVRqw" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "xd9CX3FVRqw",
+        "videoPublishedAt": "2021-10-21T03:29:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wRGerQPsRvv94bSKXq9IQtuYoYo",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LkEyZnR6Z0Ruc2Q0",
+      "snippet": {
+        "publishedAt": "2021-10-20T02:44:30Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "EP ❤️: Spy, PinkPantheress, Benny the Butcher, Knocked Loose",
+        "description": "Spy - Habitual Offender\nhttps://spyhc.bandcamp.com/album/habitual-offender\n\nPinkPantheress - to hell with it\nhttps://www.youtube.com/playlist?list=OLAK5uy_kh9CfbToSbMhmJvdlNIm7cxAinBkqvPyQ\n\nBenny the Butcher - Pyrex Picasso\nhttps://www.youtube.com/watch?v=LTzerxm35gI\n\nKnocked Loose - A Tear in the Fabric of Life\nhttps://purenoise.bandcamp.com/album/a-tear-in-the-fabric-of-life\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A2ftzgDnsd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A2ftzgDnsd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A2ftzgDnsd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A2ftzgDnsd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 87,
+        "resourceId": { "kind": "youtube#video", "videoId": "A2ftzgDnsd4" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "A2ftzgDnsd4",
+        "videoPublishedAt": "2021-10-20T02:55:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BD6n3HLafn8f79wNFD8_mphX_6g",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LlhFdm14cUUzeDVN",
+      "snippet": {
+        "publishedAt": "2021-10-19T02:49:26Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Young Thug - Punk ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=uCDE-S1AjuQ\n\nAfter the promising first leg, it's as if everyone working on Punk forgets its direction.\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: DIE SLOW, STUPID/ASKING, RECOGNIZE REAL, CONTAGIOUS\n\nLEAST FAV TRACK: ICY HOT\n\nYOUNG THUG - PUNK / 2021 / 300 ENTERTAINMENT / TRAP RAP\n\n3/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XEvmxqE3x5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XEvmxqE3x5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XEvmxqE3x5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XEvmxqE3x5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 88,
+        "resourceId": { "kind": "youtube#video", "videoId": "XEvmxqE3x5M" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "XEvmxqE3x5M",
+        "videoPublishedAt": "2021-10-19T03:06:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QMw-61KnEEtMTDNd9W-Olm0WVYI",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LldsVFZYRm9PeXY0",
+      "snippet": {
+        "publishedAt": "2021-10-18T02:07:49Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Adele, Black Country New Road, Mac Miller, Maxo Kream | Weekly Track Roundup: 10/17/21",
+        "description": "Sponsored by G Fuel: gfuel.ly/needledrop\nPromo Code: NeedleDrop\n\n2021 FAV TRACKS PLAYLIST: https://open.spotify.com/playlist/7hXc9PnNqJtnV4hMmsqgIR?si=BDDSbBnoQzS1KPhndqwfkg\n\nTND Patreon: https://www.patreon.com/theneedledrop\n\nTurntable Lab link: http://turntablelab.com/theneedledrop\n\n\n!!!BEST TRACKS THIS WEEK!!!\n\nAdele - Easy on Me\nhttps://youtu.be/U3ASj1L6_sY\nReview: https://youtu.be/5sTzHLSBHmE\n\nMac Miller - Yeah\nhttps://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB?si=09aa834b518d469d\n\nBlack Country, New Road - Chaos Space Marine\nhttps://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp?si=7277c43c774d4733\n\nBoys Noize, Abra - Affection\nhttps://open.spotify.com/track/4SSTO88KFsMLeYF7kuMzWl?si=4da2d26ff618440c\n\nMichael Kiwanuka - Beautiful Life\nhttps://youtu.be/F2PltPL8olI\n\nserpentwithfeet - Down Nuh River\nhttps://www.youtube.com/watch?v=ZkSUY5tJAGU\n\n\n...meh...\n\nLaetitia Sadier - New Moon\nhttps://youtu.be/KHdPVnptGvI\n\nDorian Electra - Iron Fist ft. Alice Glass and Faris Badwan (Alice Glass Remix)\nhttps://open.spotify.com/track/2Dv4Xi9rWEhofLTWGmjwTe?si=d68ab82c71034147\n\nSummer Walker, JT - Ex for a Reason\nhttps://www.youtube.com/watch?v=Qel9ALGzzBQ\n\nLil Durk - Pissed Me Off\nhttps://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q?si=313c8cd1f8e841d4\n\nSnail Mail - Ben Franklin\nhttps://www.youtube.com/watch?v=DUU9xxIb91g\n\nHiatus Kaiyote - Canopic Jar\nhttps://open.spotify.com/track/4bTNC9Z0MzAQLlIADdvLxb?si=de25817accbe41d5\n\nAesop Rock & Blockhead - Jazz Hands\nhttps://youtu.be/Bzq1WBBYTBU\n\nMaxo Kream - Greener Knots\nhttps://www.youtube.com/watch?v=VCHZyFXuw_k\n\n\n!!!WORST TRACKS THIS WEEK!!!\n\nLumineers - Big Shot\nhttps://www.youtube.com/watch?v=z2pocjX-5Zw\n\nTom Morello - The War Inside ft. Chris Stapleton\nhttps://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz?si=3fc86ae33b1b4ef4\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WlTVXFoOyv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WlTVXFoOyv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WlTVXFoOyv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WlTVXFoOyv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 89,
+        "resourceId": { "kind": "youtube#video", "videoId": "WlTVXFoOyv4" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "WlTVXFoOyv4",
+        "videoPublishedAt": "2021-10-18T02:30:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RKuWCW2-lB73hzC3jZG43mIUKDw",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LlBfNGpKdkVoNlEw",
+      "snippet": {
+        "publishedAt": "2021-10-16T16:48:03Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "James Blake - Friends That Break Your Heart ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=JRUjtalz_1k\n\nJames' best record since his debut.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: FAMOUS LAST WORDS, LIFE IS NOT THE SAME, FUNERAL, FROZEN, SHOW ME, SAY WHAT YOU WILL, LOST ANGEL NIGHTS, FRIENDS THAT BREAK YOUR HEART, IF I'M INSECURE\n\nLEAST FAV TRACK: I'M SO BLESSED YOU'RE MINE\n\nJAMES BLAKE - FRIENDS THAT BREAK YOUR HEART / 2021 / REPUBLIC / ALTERNATIVE R&B, AMBIENT POP\n\n8/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_4jJvEh6Q0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_4jJvEh6Q0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_4jJvEh6Q0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P_4jJvEh6Q0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 90,
+        "resourceId": { "kind": "youtube#video", "videoId": "P_4jJvEh6Q0" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "P_4jJvEh6Q0",
+        "videoPublishedAt": "2021-10-16T17:11:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LYhUyRUEFyeX4HvwmtMPsPfSITM",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjFubEU1UkR3RmVB",
+      "snippet": {
+        "publishedAt": "2021-10-15T02:00:15Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Magdalena Bay - Mercurial World ALBUM REVIEW",
+        "description": "Listen: https://magdalenabay.bandcamp.com/album/mercurial-world\n\nEven while the duo's finding a distinct sound, Mercurial World serves bop after bop.\n\nMore pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: MERCURIAL WORLD, DAWNING OF THE SEASON, SECRETS (YOUR FIRE), YOU LOSE!, CHAERI, HYSTERICAL US, PROPHECY, DREAMCATCHING, THE BEGINNING\n\nLEAST FAV TRACK: FOLLOW THE LEADER\n\nMAGDALENA BAY - MERCURIAL WORLD / 2021 / LUMINELLE / SYNTHPOP\n\n8/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1nlE5RDwFeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1nlE5RDwFeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1nlE5RDwFeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1nlE5RDwFeA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 91,
+        "resourceId": { "kind": "youtube#video", "videoId": "1nlE5RDwFeA" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "1nlE5RDwFeA",
+        "videoPublishedAt": "2021-10-15T02:21:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mKkVBMcoh6sq656nMdJyyamPbww",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LnFDczk2QzFRUEtJ",
+      "snippet": {
+        "publishedAt": "2021-10-14T03:48:45Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "BADBADNOTGOOD - Talk Memory ALBUM REVIEW",
+        "description": "Listen: https://badbadnotgoodofficial.bandcamp.com/album/talk-memory\n\nTalk Memory seems like the start of an exciting new chapter for BBNG.\n\nOther reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: SIGNAL FROM THE NOISE, BESIDE APRIL, TIMID INTIMIDATING, BESIDE APRIL (REPRISE)\n\nLEAST FAV TRACK: UNFOLDING\n\nBADBADNOTGOOD - TALK MEMORY / 2021 / XL / JAZZ FUSION\n\n7/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qCs96C1QPKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qCs96C1QPKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qCs96C1QPKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qCs96C1QPKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 92,
+        "resourceId": { "kind": "youtube#video", "videoId": "qCs96C1QPKI" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "qCs96C1QPKI",
+        "videoPublishedAt": "2021-10-14T03:57:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AZRJ2KN7mngIvm9tjY_wx9AEFNw",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LjA5WDI0ZjZMTGpj",
+      "snippet": {
+        "publishedAt": "2021-10-13T04:24:46Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Don Toliver - Life of a Don ALBUM REVIEW",
+        "description": "Listen: https://www.youtube.com/watch?v=gB_1xE23gb4\n\nDon spends most of the album warming up.\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: SMOKE, CROSSFADED, BOGUS\n\nLEAST FAV TRACK: COMPANY PT. 2\n\nDON TOLIVER - LIFE OF A DON / 2021 / CACTUS JACK / MELO-TRAP\n\n4/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/09X24f6LLjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/09X24f6LLjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/09X24f6LLjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/09X24f6LLjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 93,
+        "resourceId": { "kind": "youtube#video", "videoId": "09X24f6LLjc" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "09X24f6LLjc",
+        "videoPublishedAt": "2021-10-13T04:35:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pV0QH6Nkob99R28dW-VgnqyFJVI",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Li1JWXZOeHp6ZmQ0",
+      "snippet": {
+        "publishedAt": "2021-10-12T04:34:10Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Blu - The Color Blu(e) ALBUM REVIEW",
+        "description": "Listen: https://thenewcolorblu.bandcamp.com/album/the-color-blu-e\n\nIt's a three-peat for Blu.\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: I AM BLU(E), EVERYDAY BLU(E)S, PEOPLE CALL ME BLU(E), I WAS BORN TO BE BLU(E), BLU(E)R THAN BLU(E), WE ARE DARKER THAN BLU(E), MR. BLU(E) SKY, BLU(E) WORLD\n\nLEAST FAV TRACK: YOU AIN'T NEVER BEEN BLU(E)\n\nBLU - THE COLOR BLU(E) / 2021 / NATURE SOUNDS / CONSCIOUS HIP HOP\n\n8/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-IYvNxzzfd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-IYvNxzzfd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-IYvNxzzfd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-IYvNxzzfd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 94,
+        "resourceId": { "kind": "youtube#video", "videoId": "-IYvNxzzfd4" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "-IYvNxzzfd4",
+        "videoPublishedAt": "2021-10-12T04:42:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eJwWUI00APx8kii0wzIKfesaPGs",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Lm9Vb0ZTTy03Zjc4",
+      "snippet": {
+        "publishedAt": "2021-10-11T03:34:56Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Nas, Zack Fox, Tame Impala, Mitski | Weekly Track Roundup: 10/10/21",
+        "description": "Sponsored by G Fuel: gfuel.ly/needledrop\nPromo Code: NeedleDrop\n\n2021 FAV TRACKS PLAYLIST: https://open.spotify.com/playlist/7hXc9PnNqJtnV4hMmsqgIR?si=BDDSbBnoQzS1KPhndqwfkg\n\nTND Patreon: https://www.patreon.com/theneedledrop\n\nTurntable Lab link: http://turntablelab.com/theneedledrop\n\nAusten's shoutout:\nMichael Pisaro-Liu - Revolution Shuffle\nhttps://erstwhilerecords.bandcamp.com/album/revolution-shuffle\n\n\n!!!BEST TRACKS THIS WEEK!!!\n\nPinkPantheress - I must apologise\nhttps://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI?si=4d0488f8a3824113\n\nZack Fox - fafo\nhttps://www.youtube.com/watch?v=cfuqFVaV2iE\n\nTame Impala - Breathe Deeper (Lil Yachty Remix)\nhttps://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04?si=0bdca5cb7c0a491e\n\nSoccer Mommy, Kero Kero Bonito - rom com 2021\nhttps://www.youtube.com/watch?v=3EO18qI8r3I\n\nWe Are the Union, Eve 6 - Sound System (OP IVY COVER)\nhttps://open.spotify.com/track/3LKGuX7UJCSBLZwJb4iNxi?si=f8046bd264964ba3\n\nHatchie - Crush (JENNIFER PAIGE COVER)\nhttps://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ?si=9d706a32f0b04425\n\nLil Wayne - Ya Dig\nhttps://open.spotify.com/track/22HAcQL7Uqs3ROwpZHxJry?si=caa3befd52a54a47\n\n\n\n...meh...\n\n\nArca - Born Yesterday ft. Sia\nhttps://www.youtube.com/watch?v=_Ed8EpTp-NI\n\nAshnikko - Panic Attacks in Paradise\nhttps://www.youtube.com/watch?v=-VNFkMZPn88\n\nGeorge Clanton, Negative Gemini - Fucking Up My Life\nhttps://www.youtube.com/watch?v=ffWiubUa3nI\n\nConway the Machine - Piano Love\nhttps://www.youtube.com/watch?v=w30fuG_f--Y\n\nSeeYouSpaceCowboy - Misinterpreting Constellations \nhttps://open.spotify.com/track/05ceDZ41NUDP4hDrOolLQa?si=af8f30f433354084\n\nMitski - Working for the Knife\nhttps://www.youtube.com/watch?v=HYbXt4_r9Pw\n\nYUKIKA - Tokyo Lights\nhttps://open.spotify.com/track/1BJnaX6WTSQcZSpugSslLZ?si=116b3f621e114b7d\n\nbbno$ - yoga ft. Rebecca Black\nhttps://open.spotify.com/track/6Dbjbkuzp4QEudONcqFNsi?si=cd8bcc5299ba4d78\n\nCordae - Super\nhttps://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo?si=796bfd78eb614ebf\n\nNas - Big Nas\nhttps://open.spotify.com/track/0GIZWL2QckGkBdxfCQMVFA?si=94e07f8ee1fc4556\n\nC. Tangana - Ateo ft. Nathy Peluso\nhttps://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11?si=9c84c879e844409e\n\n\n\n!!!WORST TRACKS THIS WEEK!!!\n\nTears for Fears - The Tipping Point\nhttps://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2?si=589eb08a7bf84f80\n\numru - check1 ft. Tommy Cash, 645AR\nhttps://open.spotify.com/track/4FRb76rbCSl7CUbBNPYMmX?si=53f6705750c7450e\n\nKelis - Midnight Snacks\nhttps://www.youtube.com/watch?v=3EJLxF0mElM\n\nMåneskin - MAMAMIA\nhttps://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP?si=7720aa9f5ecd4116\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oUoFSO-7f78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oUoFSO-7f78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oUoFSO-7f78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oUoFSO-7f78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 95,
+        "resourceId": { "kind": "youtube#video", "videoId": "oUoFSO-7f78" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "oUoFSO-7f78",
+        "videoPublishedAt": "2021-10-11T03:57:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1TSO_I-gLFsw6OyHIZ55DGPK4lI",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LndON2ZMODVJSHdZ",
+      "snippet": {
+        "publishedAt": "2021-10-09T18:06:59Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "YUNOREVIEW: October 2021 (Spiritbox, Amyl, Meek Mill, Metallica)",
+        "description": "The magical monthly segment where I briefly touch down on a gauntlet of albums I didn't get a chance to review this past month...or several. These are just my short, straightforward, passionate, biased opinions.\n\nAmyl and the Sniffers - Comfort to Me\n99 Neighbors - Wherever You're Going I Hope It's Great\nMild High Club - Going Going Gone\nShad - Tao\nSpiritbox - Eternal Blue\nG-Eazy - These Things Happen Too\nVarious Artists - The Metallica Blacklist\nMeek Mill - Expensive Pain\nPond - 9\nFull of Hell - Garden of Burning Apparitions\nAdia Victoria - A Southern Gothic\nthe Moutain Goats - Dark in Here\nSleigh Bells - Texis\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wN7fL85IHwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wN7fL85IHwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wN7fL85IHwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wN7fL85IHwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 96,
+        "resourceId": { "kind": "youtube#video", "videoId": "wN7fL85IHwY" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "wN7fL85IHwY",
+        "videoPublishedAt": "2021-10-09T18:20:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Eq2gCKn85d8PYNqltOY0TKFksKo",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3Lk5reEZ3T3p4VmFz",
+      "snippet": {
+        "publishedAt": "2021-10-08T01:19:24Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Frontierer - Oxidized ALBUM REVIEW",
+        "description": "Listen: https://frontierer.bandcamp.com/album/oxidized\n\nOxidized might just be 2021's most vicious sonic beating, and your mileage will most certainly vary based on that.\n\nMore metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: THIS MAGNETIC DRIFT, LK WX, REMOVAL OF THE COPPER IRIS AND THE LIGHTNING PILL, MOTHERBOARD, THE DAMAGE AND THE SIFT, /HOPE\n\nLEAST FAV TRACK: OPAQUE HORIZON\n\nFRONTIERER - OXIDIZED / 2021 / BLOOD BLAST DISTRIBUTION / MATHCORE, DJENT, GLITCH\n\n6/10\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NkxFwOzxVas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NkxFwOzxVas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NkxFwOzxVas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NkxFwOzxVas/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 97,
+        "resourceId": { "kind": "youtube#video", "videoId": "NkxFwOzxVas" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "NkxFwOzxVas",
+        "videoPublishedAt": "2021-10-08T01:35:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CGMW97_ndtY0EWKiIb3p5iYVndI",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LkQ4bnNaUUpwRlJN",
+      "snippet": {
+        "publishedAt": "2021-10-07T01:02:55Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "illuminati hotties - Let Me Do One More ALBUM REVIEW",
+        "description": "Listen: https://illuminatihotties.bandcamp.com/album/let-me-do-one-more\n\nThe one we've been waiting for.\n\nMore rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: POOL HOPPING, MMMOOOAAAAAYAYA, KNEAD, THREATENING EACH OTHER RE: CAPITALISM, JONI: LA'S NO. 1 HEALTH GOTH, CHEAP SHOES, GROWTH\n\nLEAST FAV TRACK: KICKFLIP\n\nILLUMINATI HOTTIES - LET ME DO ONE MORE / 2021 / SNACK SHACK TRACKS / INDIE ROCK, TENDERPUNK\n\n8/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D8nsZQJpFRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D8nsZQJpFRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D8nsZQJpFRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D8nsZQJpFRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 98,
+        "resourceId": { "kind": "youtube#video", "videoId": "D8nsZQJpFRM" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "D8nsZQJpFRM",
+        "videoPublishedAt": "2021-10-07T01:17:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zno3UArVkeVT7NPzLq7i3JTMemM",
+      "id": "VVV0N2Z3QWhYRHkzb05GVEF6RjJvOFB3LlpnOGlac29pNnFR",
+      "snippet": {
+        "publishedAt": "2021-10-06T03:55:26Z",
+        "channelId": "UCt7fwAhXDy3oNFTAzF2o8Pw",
+        "title": "Wiki - Half God ALBUM REVIEW",
+        "description": "Listen: https://wiksetnyc.bandcamp.com/album/half-god\n\nWiki shines as a solo performer and lyricist on the Navy Blue-produced Half God.\n\nMore rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP\n\n===================================\nSubscribe: http://bit.ly/1pBqGCN\n\nPatreon: https://www.patreon.com/theneedledrop\n\nOfficial site: http://theneedledrop.com\n\nTwitter: http://twitter.com/theneedledrop\n\nInstagram: https://www.instagram.com/afantano\n\nTikTok: https://www.tiktok.com/@theneedletok\n\nTND Twitch: https://www.twitch.tv/theneedledrop\n===================================\n\nFAV TRACKS: NOT TODAY, ROOF, CAN'T DO THIS ALONE, NEVER FALL OFF, EGO DEATH, THE BUSINESS, HOME, ALL I NEED, NEW TRUTHS, GRAPE SODA\n\nLEAST FAV TRACK: STILL HERE\n\nWIKI - HALF GOD / 2021 / WIKSET ENTERPRISE / ALTERNATIVE HIP HOP\n\n8/10 https://www.theneedledrop.com/loved-list/2021/1/loved-list-2021\n\nY'all know this is just my opinion, right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zg8iZsoi6qQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zg8iZsoi6qQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zg8iZsoi6qQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zg8iZsoi6qQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "theneedledrop",
+        "playlistId": "UUt7fwAhXDy3oNFTAzF2o8Pw",
+        "position": 99,
+        "resourceId": { "kind": "youtube#video", "videoId": "Zg8iZsoi6qQ" },
+        "videoOwnerChannelTitle": "theneedledrop",
+        "videoOwnerChannelId": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+      },
+      "contentDetails": {
+        "videoId": "Zg8iZsoi6qQ",
+        "videoPublishedAt": "2021-10-06T04:14:01Z"
+      }
+    }
+  ],
+  "pageInfo": { "totalResults": 3735, "resultsPerPage": 50 }
+}
