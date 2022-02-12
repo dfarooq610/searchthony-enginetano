@@ -18,21 +18,24 @@ do {
   pageToken = data["nextPageToken"];
 
   videoList  = [...videoList, ...data["items"]
-    .map((item) => {
-      const { snippet } = item;
-      const { title, description } = snippet;
-      return { title, description };
+    .map(item => {
+      const { snippet, contentDetails } = item;
+      const { title, description, thumbnails } = snippet;
+      const { videoId, videoPublishedAt } = contentDetails;
+      const { url } = thumbnails["high"] ? thumbnails["high"] : thumbnails["default"];
+
+      return { title, description, videoPublishedAt, videoURL: `https://www.youtube.com/watch?v=${videoId}`, thumbnailURL: url};
     })
     .filter(
-      (item) =>
+      item =>
         item.title.toLowerCase().includes(" review") &&
-        !item.title.toLowerCase().includes("y u no")
+        !item.title.toLowerCase().includes("y u no") && 
+        !item.title.toLowerCase().includes("track")
     )];
-} while (pageToken != "" && pageToken != null);
+} while (pageToken !== "" && pageToken !== undefined);
 
 fs.writeFile("output3.json", JSON.stringify(videoList), (err) => {
   if (err != null) {
     console.log(err);
   }
 });
-// console.log(data);
