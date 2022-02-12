@@ -18,6 +18,6 @@
   "homepage": "https://github.com/dfarooq610/searchthony-enginetano#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "googleapis": "^91.0.0"
+    "node-fetch": "^3.2.0"
   }
 }
