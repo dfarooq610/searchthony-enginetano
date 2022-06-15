@@ -2,9 +2,6 @@ import "dotenv/config";
 import fetch from "node-fetch";
 import * as fs from "fs";
 
-
-let successfulScores = 0;
-
 const isAlbumReview = item => {
   let { title } = item["snippet"];
   title = title.toLowerCase()
@@ -12,10 +9,10 @@ const isAlbumReview = item => {
   return title.includes(" review") &&
     !title.includes("y u no") &&
     !title.includes(" track") &&
-    !title.includes("movie review") && 
+    !title.includes("movie review") &&
     !/[0-9] Reviews:/g.test(title);
 
-  
+
 }
 
 const extractVideoMetadata = item => {
@@ -23,16 +20,31 @@ const extractVideoMetadata = item => {
   const { title, description, thumbnails } = snippet;
   const { videoId, videoPublishedAt } = contentDetails;
   const { url } = thumbnails["high"] ? thumbnails["high"] : thumbnails["default"];
-  const videoMetadata = { title, description, videoPublishedAt, videoURL: `https://www.youtube.com/watch?v=${videoId}`, thumbnailURL: url };
+  let videoMetadata = { title, description, videoPublishedAt, videoURL: `https://www.youtube.com/watch?v=${videoId}`, thumbnailURL: url };
   // extract score from description
-  const scoreRegex = /1*.\/10/
+  const scoreRegex = /[^\n]\w*\/10/ ///1*.\/10/
   const scores = scoreRegex.exec(description)
   if (!scores || scores.length > 2) {
-    console.log("FOUND A REVIEW WITH MULTIPLE OR NO SCORES: " + title + " " + scores + " " + `https://www.youtube.com/watch?v=${videoId}`)
     return { title, description, videoPublishedAt, videoURL: `https://www.youtube.com/watch?v=${videoId}`, thumbnailURL: url };
   }
-  successfulScores += 1;
-  return { title, description, videoPublishedAt, videoURL: `https://www.youtube.com/watch?v=${videoId}`, thumbnailURL: url, score: scores[0] };
+
+  // extract favTracks
+  const favTracksRegex = /FAV TRACKS:(.*)(\\n)?/
+  const favTracks = favTracksRegex.exec(description)
+  !favTracks ? videoMetadata["favTracks"] = null : videoMetadata["favTracks"] = favTracks[1].trim()
+  if (!favTracks) {
+    console.log("FOUND A REVIEW WITH NO OR MULTIPLE FAV TRACKS: " + title + " " + favTracks + `https://www.youtube.com/watch?v=${videoId}`)
+  }
+
+  const leastFavTracksRegex = /LEAST FAV TRACK:(.*)(\\n)?/
+  const leastFavTracks = leastFavTracksRegex.exec(description)
+  !leastFavTracks ? videoMetadata["leastFavTrack"] = null : videoMetadata["leastFavTrack"] = leastFavTracks[1].trim()
+  if (!leastFavTracks) {
+    console.log("FOUND A REVIEW WITH NO OR MULTIPLE LFAV TRACKS: " + title + " " + leastFavTracks + `https://www.youtube.com/watch?v=${videoId}`)
+    // return { title, description, videoPublishedAt, videoURL: `https://www.youtube.com/watch?v=${videoId}`, thumbnailURL: url, score: scores[0].trim(), favTracks: favTracks[1] };
+  }
+
+  return videoMetadata;
 }
 
 let pageToken = "";
@@ -54,7 +66,6 @@ do {
     .map(extractVideoMetadata)];
 } while (pageToken !== "" && pageToken !== undefined);
 
-console.info(`Successfully Scraped Scores: ${videoList.length - successfulScores} / ${videoList.length}`)
 fs.writeFile("output3.json", JSON.stringify(videoList), (err) => {
   if (err != null) {
     console.log(err);
